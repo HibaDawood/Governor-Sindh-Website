@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <div className="font-sans">
+    <div className="font-sans w-full overflow-x-hidden">
       {/* Navbar */}
       <div className="fixed z-50 w-full">
       <header>
